@@ -1,0 +1,3 @@
+- 👋 Hi, This is an offiial git repository page of https://openinnovationslab.com/
+- 👀 Helping students develop technology-enabled business solutions for corporates.
+- 🌱 We Simplify Organizing, Participating and Assessing a Challenge With Full Flexibility.
